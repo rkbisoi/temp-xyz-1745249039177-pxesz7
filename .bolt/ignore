@@ -1,0 +1,11 @@
+src/components/data
+src/components/auth
+src/components/chat
+src/components/project
+src/components/notification
+src/components/knowledge
+src/components/profile
+src/components/scheduler
+src/components/users
+src/components/test
+src/mockData
